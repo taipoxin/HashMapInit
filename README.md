@@ -1,0 +1,4 @@
+# HashMapInit
+
+
+Implementation of HashMap
